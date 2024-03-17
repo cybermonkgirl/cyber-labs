@@ -2,7 +2,7 @@
 
 <h2>🌐Web Application Hacking Labs:</h2>
 
-- [PortSwigger Web Vulnerability Labs (Proof of Concept)](https://github.com/cybermonkgirl/#project-repository-here)
+- [PortSwigger Web Vulnerability Labs (Proof of Concept)](https://github.com/cybermonkgirl/cyber-labs/tree/main/portswigger-labs))
 - [OWASP Juice Shop (Proof of Concept)](https://github.com/cybermonkgirl/#project-repository-here)
 - [Hackthebox (Proof of Concept)](https://github.com/cybermonkgirl/#project-repository-here)
 - [President's Cup Cybersecurity Competition Challenges (Proof of Concept)](https://github.com/cybermonkgirl/#project-repository-here)
